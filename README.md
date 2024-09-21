@@ -1,11 +1,28 @@
+# How to Use
 
-# How to use
-1. Clone or download this repo.
-2. Go to dip file. Placing some picture in "img-prior-in", and open "dip.py".
-3. Replace the image name with your own picture. You can also change the "noise_intensity" ,"iterations" or "result[]" that you want to store or show.
-4. Run "dip.py". After that you can get the result image in "output_images".
-5. Go to ddpm file. Then you can start to train the ddpm model by run "Main.py". You also can modify the hyperparameter in this code.
-6. Next, you need to place your input picture(dip) to the "SampledImgs" file, and modify the "image_path" in the "Diffusion/Train.py". 
-7. Go to "Main.py" again and set the "state" to eval and "test_load_weight" to your training results which locate in "Checkpoints".
-8. And now you can use Main.py to run the evaluation.
-9. After the evaluation, you will get the final image in the "SampledImgs".
+## 1. Clone or Download the Repository
+Clone this repository or download it as a ZIP file.
+
+## 2. Prepare the DIP Files
+- Navigate to the `dip` folder.
+- Place your images in the `img-prior-in` directory.
+- Open `dip.py` and replace the image name with your own picture. You can also adjust the `noise_intensity`, `iterations`, or `result[]` parameters as desired.
+
+## 3. Run the DIP Script
+Execute `dip.py`. The resulting images will be saved in the `output_images` folder.
+
+## 4. Prepare for DDPM Training
+- Navigate to the `ddpm` folder.
+- Start training the DDPM model by running `Main.py`. You can modify the hyperparameters in this script as needed.
+
+## 5. Set Up for Evaluation
+- Place your input picture (from the DIP process) in the `SampledImgs` directory.
+- Modify the `image_path` variable in `Diffusion/Train.py` to point to your input image.
+
+## 6. Run Evaluation
+- Return to `Main.py` and set the `state` to `eval`.
+- Specify the `test_load_weight` to point to your training results located in the `Checkpoints` folder.
+- Now, you can run `Main.py` to execute the evaluation.
+
+## 7. View Results
+After the evaluation completes, the final images will be saved in the `SampledImgs` folder.

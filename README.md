@@ -26,3 +26,6 @@ Execute `dip.py`. The resulting images will be saved in the `output_images` fold
 
 ## 7. View Results
 After the evaluation completes, the final images will be saved in the `SampledImgs` folder.
+
+## **Note**
+- Please refer to the PDF file for more detailed information about the experiment results.

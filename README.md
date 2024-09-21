@@ -1,7 +1,7 @@
 # Usage
 
 ## 1. Clone or Download the Repository
-Clone this repository or download it as a ZIP file.
+- Clone this repository or download it as a ZIP file.
 
 ## 2. Prepare the DIP Files
 - Navigate to the `dip` folder.
@@ -9,7 +9,7 @@ Clone this repository or download it as a ZIP file.
 - Open `dip.py` and replace the image name with your own picture. You can also adjust the `noise_intensity`, `iterations`, or `result[]` parameters as desired.
 
 ## 3. Run the DIP Script
-Execute `dip.py`. The resulting images will be saved in the `output_images` folder.
+- Execute `dip.py`. The resulting images will be saved in the `output_images` folder.
 
 ## 4. Prepare for DDPM Training
 - Navigate to the `ddpm` folder.
@@ -25,7 +25,7 @@ Execute `dip.py`. The resulting images will be saved in the `output_images` fold
 - Now, you can run `Main.py` to execute the evaluation.
 
 ## 7. View Results
-After the evaluation completes, the final images will be saved in the `SampledImgs` folder.
+- After the evaluation completes, the final images will be saved in the `SampledImgs` folder.
 
 ## **Note**
 - Please refer to the [PDF file](https://github.com/Iane14093051/GAI_project4/blob/main/E14093051_GAI_Project4.pdf) for more detailed information about the experiment results.

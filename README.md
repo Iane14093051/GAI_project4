@@ -29,4 +29,4 @@ After the evaluation completes, the final images will be saved in the `SampledIm
 
 ## **Note**
 - Please refer to the [PDF file](https://github.com/Iane14093051/GAI_project4/blob/main/E14093051_GAI_Project4.pdf) for more detailed information about the experiment results.
-- Please refer to the PDF file for more detailed information regarding the project requirements.
+- Please refer to the [PDF file](https://github.com/Iane14093051/GAI_project4/blob/main/GenAI_assignment_visual_signal.pdf) for more detailed information regarding the project requirements.

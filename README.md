@@ -3,7 +3,7 @@
 This course provides an overview of the fundamental theories behind generative AI, covering various generative models for both text and images. It also includes practical exercises for applying these concepts in real-world scenarios.
 
 # Objective
--The motivation behind this approach is to accelerate the slow backward learning process in DDPM by utilizing the image-specific priors automatically learned by the CNN architecture in DIP.
+- The motivation behind this approach is to accelerate the slow backward learning process in DDPM by utilizing the image-specific priors automatically learned by the CNN architecture in DIP.
 
 # Usage
 

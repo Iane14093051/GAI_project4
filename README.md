@@ -1,4 +1,4 @@
-# How to Use
+# Usage
 
 ## 1. Clone or Download the Repository
 Clone this repository or download it as a ZIP file.
@@ -29,3 +29,4 @@ After the evaluation completes, the final images will be saved in the `SampledIm
 
 ## **Note**
 - Please refer to the PDF file for more detailed information about the experiment results.
+- Please refer to the PDF file for more detailed information regarding the project requirements.
